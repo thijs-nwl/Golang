@@ -1,0 +1,2 @@
+Concurrency
+This module goes over goroutines and channels, and how they are used to implement different concurrency patterns.
