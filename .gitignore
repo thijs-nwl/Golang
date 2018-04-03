@@ -1,4 +1,7 @@
 pkg/
-bin/ 
+bin/
+src/* 
+!src/github.com/
 src/github.com/*
 !src/github.com/thijs-nwl
+src/github.com/thijs-nwl/sandbox/tutorials/chartHistory/datastore
